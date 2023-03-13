@@ -1,1 +1,1 @@
-This a script that print Hello, World.
+This is a script that print Hello, World.
